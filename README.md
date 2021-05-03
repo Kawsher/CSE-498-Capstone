@@ -1,1 +1,2 @@
 # CSE-498-Capstone
+Machine learning in Sports analysis is a hot field in Computer Science. Using Machine learning algorithms, we can predict the outcome of a game or the performance of teams or individual players and building new strategies for upcoming competitions. Cricket is one of the foremost popular games in Bangladesh. The goal of this project was to find the best eleven players for the Bangladesh cricket team.
